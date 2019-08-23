@@ -31,10 +31,6 @@ Packages used :
 4. djoser
 
 
-URLS: 1. /auth/users -> SignUp 
-      2. /api/token ->  Login and Access Token
-
-
 Run it as follows :
 
 1.Start the Django server using python manage.py runserver
