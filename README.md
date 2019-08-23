@@ -28,6 +28,12 @@ Packages used :
 1. rest_framework_simplejwt
 2. django-cors-headers
 3. djangorestframework
+4. djoser
+
+
+URLS: 1. /auth/users -> SignUp 
+      2. /api/token ->  Login and Access Token
+
 
 Run it as follows :
 
